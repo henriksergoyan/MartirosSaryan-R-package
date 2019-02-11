@@ -8,6 +8,6 @@ https://github.com/Avetik666/MartirosSaryan
 
 ### The package and shiny applications were built by
 
-https://github.com/henriksergoyan
-https://github.com/Avetik666
-https://github.com/bezirganyan
+https://github.com/henriksergoyan <br>
+https://github.com/Avetik666 <br>
+https://github.com/bezirganyan 
